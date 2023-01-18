@@ -1,6 +1,5 @@
 # import package
 import pyqrcode
-
 #methods
 from pyqrcode import QRCode
 
